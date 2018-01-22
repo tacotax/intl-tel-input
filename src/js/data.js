@@ -16,27 +16,27 @@
 // ]
 var allCountries = [
   [
-    "Afghanistan (‫افغانستان‬‎)",
+    "Afghanistan",
     "af",
     "93"
   ],
   [
-    "Albania (Shqipëri)",
+    "Albanie",
     "al",
     "355"
   ],
   [
-    "Algeria (‫الجزائر‬‎)",
+    "Algérie",
     "dz",
     "213"
   ],
   [
-    "American Samoa",
+    "Samoa américaines",
     "as",
     "1684"
   ],
   [
-    "Andorra",
+    "Andorre",
     "ad",
     "376"
   ],
@@ -51,17 +51,17 @@ var allCountries = [
     "1264"
   ],
   [
-    "Antigua and Barbuda",
+    "Antigua-et-Barbuda",
     "ag",
     "1268"
   ],
   [
-    "Argentina",
+    "Argentine",
     "ar",
     "54"
   ],
   [
-    "Armenia (Հայաստան)",
+    "Arménie",
     "am",
     "374"
   ],
@@ -71,18 +71,18 @@ var allCountries = [
     "297"
   ],
   [
-    "Australia",
+    "Australie",
     "au",
     "61",
     0
   ],
   [
-    "Austria (Österreich)",
+    "Autriche",
     "at",
     "43"
   ],
   [
-    "Azerbaijan (Azərbaycan)",
+    "Azerbaïdjan",
     "az",
     "994"
   ],
@@ -92,27 +92,27 @@ var allCountries = [
     "1242"
   ],
   [
-    "Bahrain (‫البحرين‬‎)",
+    "Bahreïn",
     "bh",
     "973"
   ],
   [
-    "Bangladesh (বাংলাদেশ)",
+    "Bangladesh",
     "bd",
     "880"
   ],
   [
-    "Barbados",
+    "Barbade",
     "bb",
     "1246"
   ],
   [
-    "Belarus (Беларусь)",
+    "Biélorussie",
     "by",
     "375"
   ],
   [
-    "Belgium (België)",
+    "Belgique",
     "be",
     "32"
   ],
@@ -122,27 +122,27 @@ var allCountries = [
     "501"
   ],
   [
-    "Benin (Bénin)",
+    "Bénin",
     "bj",
     "229"
   ],
   [
-    "Bermuda",
+    "Bermudes",
     "bm",
     "1441"
   ],
   [
-    "Bhutan (འབྲུག)",
+    "Bhoutan",
     "bt",
     "975"
   ],
   [
-    "Bolivia",
+    "Bolivie",
     "bo",
     "591"
   ],
   [
-    "Bosnia and Herzegovina (Босна и Херцеговина)",
+    "Bosnie-Herzégovine",
     "ba",
     "387"
   ],
@@ -152,17 +152,17 @@ var allCountries = [
     "267"
   ],
   [
-    "Brazil (Brasil)",
+    "Brésil",
     "br",
     "55"
   ],
   [
-    "British Indian Ocean Territory",
+    "Territoire britannique de l'océan Indien",
     "io",
     "246"
   ],
   [
-    "British Virgin Islands",
+    "Îles Vierges britanniques",
     "vg",
     "1284"
   ],
@@ -172,7 +172,7 @@ var allCountries = [
     "673"
   ],
   [
-    "Bulgaria (България)",
+    "Bulgarie",
     "bg",
     "359"
   ],
@@ -182,17 +182,17 @@ var allCountries = [
     "226"
   ],
   [
-    "Burundi (Uburundi)",
+    "Burundi ",
     "bi",
     "257"
   ],
   [
-    "Cambodia (កម្ពុជា)",
+    "Cambodge",
     "kh",
     "855"
   ],
   [
-    "Cameroon (Cameroun)",
+    "Cameroun",
     "cm",
     "237"
   ],
@@ -204,75 +204,75 @@ var allCountries = [
     ["204", "226", "236", "249", "250", "289", "306", "343", "365", "387", "403", "416", "418", "431", "437", "438", "450", "506", "514", "519", "548", "579", "581", "587", "604", "613", "639", "647", "672", "705", "709", "742", "778", "780", "782", "807", "819", "825", "867", "873", "902", "905"]
   ],
   [
-    "Cape Verde (Kabu Verdi)",
+    "Cap-Vert",
     "cv",
     "238"
   ],
   [
-    "Caribbean Netherlands",
+    "Pays-Bas caribéens",
     "bq",
     "599",
     1
   ],
   [
-    "Cayman Islands",
+    "Îles Caïmans",
     "ky",
     "1345"
   ],
   [
-    "Central African Republic (République centrafricaine)",
+    "République centrafricaine",
     "cf",
     "236"
   ],
   [
-    "Chad (Tchad)",
+    "Tchad",
     "td",
     "235"
   ],
   [
-    "Chile",
+    "Chili",
     "cl",
     "56"
   ],
   [
-    "China (中国)",
+    "Chine",
     "cn",
     "86"
   ],
   [
-    "Christmas Island",
+    "Île Christmas",
     "cx",
     "61",
     2
   ],
   [
-    "Cocos (Keeling) Islands",
+    "Îles Cocos",
     "cc",
     "61",
     1
   ],
   [
-    "Colombia",
+    "Colombie",
     "co",
     "57"
   ],
   [
-    "Comoros (‫جزر القمر‬‎)",
+    "Comores",
     "km",
     "269"
   ],
   [
-    "Congo (DRC) (Jamhuri ya Kidemokrasia ya Kongo)",
+    "République démocratique du Congo",
     "cd",
     "243"
   ],
   [
-    "Congo (Republic) (Congo-Brazzaville)",
+    "Congo",
     "cg",
     "242"
   ],
   [
-    "Cook Islands",
+    "Îles Cook",
     "ck",
     "682"
   ],
@@ -287,7 +287,7 @@ var allCountries = [
     "225"
   ],
   [
-    "Croatia (Hrvatska)",
+    "Croatie",
     "hr",
     "385"
   ],
@@ -303,17 +303,17 @@ var allCountries = [
     0
   ],
   [
-    "Cyprus (Κύπρος)",
+    "Chypre",
     "cy",
     "357"
   ],
   [
-    "Czech Republic (Česká republika)",
+    "République Tchèque",
     "cz",
     "420"
   ],
   [
-    "Denmark (Danmark)",
+    "Danemark",
     "dk",
     "45"
   ],
@@ -323,69 +323,69 @@ var allCountries = [
     "253"
   ],
   [
-    "Dominica",
+    "Dominique",
     "dm",
     "1767"
   ],
   [
-    "Dominican Republic (República Dominicana)",
+    "République Dominicaine",
     "do",
     "1",
     2,
     ["809", "829", "849"]
   ],
   [
-    "Ecuador",
+    "Equateur",
     "ec",
     "593"
   ],
   [
-    "Egypt (‫مصر‬‎)",
+    "Egypte",
     "eg",
     "20"
   ],
   [
-    "El Salvador",
+    "Salvador",
     "sv",
     "503"
   ],
   [
-    "Equatorial Guinea (Guinea Ecuatorial)",
+    "Guinée équatoriale",
     "gq",
     "240"
   ],
   [
-    "Eritrea",
+    "Erythrée",
     "er",
     "291"
   ],
   [
-    "Estonia (Eesti)",
+    "Estonie",
     "ee",
     "372"
   ],
   [
-    "Ethiopia",
+    "Ethiopie",
     "et",
     "251"
   ],
   [
-    "Falkland Islands (Islas Malvinas)",
+    "Îles Malouines",
     "fk",
     "500"
   ],
   [
-    "Faroe Islands (Føroyar)",
+    "Îles Féroé",
     "fo",
     "298"
   ],
   [
-    "Fiji",
+    "Fidji",
     "fj",
     "679"
   ],
   [
-    "Finland (Suomi)",
+    "Finlande",
     "fi",
     "358",
     0
@@ -396,12 +396,12 @@ var allCountries = [
     "33"
   ],
   [
-    "French Guiana (Guyane française)",
+    "Guyane française",
     "gf",
     "594"
   ],
   [
-    "French Polynesia (Polynésie française)",
+    "Polynésie française",
     "pf",
     "689"
   ],
@@ -411,22 +411,22 @@ var allCountries = [
     "241"
   ],
   [
-    "Gambia",
+    "Gambie",
     "gm",
     "220"
   ],
   [
-    "Georgia (საქართველო)",
+    "Géorgie",
     "ge",
     "995"
   ],
   [
-    "Germany (Deutschland)",
+    "Allemagne",
     "de",
     "49"
   ],
   [
-    "Ghana (Gaana)",
+    "Ghana",
     "gh",
     "233"
   ],
@@ -436,17 +436,17 @@ var allCountries = [
     "350"
   ],
   [
-    "Greece (Ελλάδα)",
+    "Grèce",
     "gr",
     "30"
   ],
   [
-    "Greenland (Kalaallit Nunaat)",
+    "Groenland",
     "gl",
     "299"
   ],
   [
-    "Grenada",
+    "Grenade",
     "gd",
     "1473"
   ],
@@ -467,18 +467,18 @@ var allCountries = [
     "502"
   ],
   [
-    "Guernsey",
+    "Guernesey",
     "gg",
     "44",
     1
   ],
   [
-    "Guinea (Guinée)",
+    "Guinée",
     "gn",
     "224"
   ],
   [
-    "Guinea-Bissau (Guiné Bissau)",
+    "Guinée Bissau",
     "gw",
     "245"
   ],
@@ -488,7 +488,7 @@ var allCountries = [
     "592"
   ],
   [
-    "Haiti",
+    "Haïti",
     "ht",
     "509"
   ],
@@ -498,69 +498,69 @@ var allCountries = [
     "504"
   ],
   [
-    "Hong Kong (香港)",
+    "Hong Kong",
     "hk",
     "852"
   ],
   [
-    "Hungary (Magyarország)",
+    "Hongrie",
     "hu",
     "36"
   ],
   [
-    "Iceland (Ísland)",
+    "Islande",
     "is",
     "354"
   ],
   [
-    "India (भारत)",
+    "Inde",
     "in",
     "91"
   ],
   [
-    "Indonesia",
+    "Indonésie",
     "id",
     "62"
   ],
   [
-    "Iran (‫ایران‬‎)",
+    "Iran",
     "ir",
     "98"
   ],
   [
-    "Iraq (‫العراق‬‎)",
+    "Iraq",
     "iq",
     "964"
   ],
   [
-    "Ireland",
+    "Irlande",
     "ie",
     "353"
   ],
   [
-    "Isle of Man",
+    "Île de Man",
     "im",
     "44",
     2
   ],
   [
-    "Israel (‫ישראל‬‎)",
+    "Israël",
     "il",
     "972"
   ],
   [
-    "Italy (Italia)",
+    "Italie",
     "it",
     "39",
     0
   ],
   [
-    "Jamaica",
+    "Jamaïque",
     "jm",
     "1876"
   ],
   [
-    "Japan (日本)",
+    "Japon",
     "jp",
     "81"
   ],
@@ -571,12 +571,12 @@ var allCountries = [
     3
   ],
   [
-    "Jordan (‫الأردن‬‎)",
+    "Jordanie",
     "jo",
     "962"
   ],
   [
-    "Kazakhstan (Казахстан)",
+    "Kazakhstan",
     "kz",
     "7",
     1
@@ -597,27 +597,27 @@ var allCountries = [
     "383"
   ],
   [
-    "Kuwait (‫الكويت‬‎)",
+    "Koweit",
     "kw",
     "965"
   ],
   [
-    "Kyrgyzstan (Кыргызстан)",
+    "Kirghistan",
     "kg",
     "996"
   ],
   [
-    "Laos (ລາວ)",
+    "Laos",
     "la",
     "856"
   ],
   [
-    "Latvia (Latvija)",
+    "Lettonie",
     "lv",
     "371"
   ],
   [
-    "Lebanon (‫لبنان‬‎)",
+    "Liban",
     "lb",
     "961"
   ],
@@ -632,7 +632,7 @@ var allCountries = [
     "231"
   ],
   [
-    "Libya (‫ليبيا‬‎)",
+    "Libye",
     "ly",
     "218"
   ],
@@ -642,7 +642,7 @@ var allCountries = [
     "423"
   ],
   [
-    "Lithuania (Lietuva)",
+    "Lituanie",
     "lt",
     "370"
   ],
@@ -652,17 +652,17 @@ var allCountries = [
     "352"
   ],
   [
-    "Macau (澳門)",
+    "Macao",
     "mo",
     "853"
   ],
   [
-    "Macedonia (FYROM) (Македонија)",
+    "Macédoine",
     "mk",
     "389"
   ],
   [
-    "Madagascar (Madagasikara)",
+    "Madagascar",
     "mg",
     "261"
   ],
@@ -672,7 +672,7 @@ var allCountries = [
     "265"
   ],
   [
-    "Malaysia",
+    "Malaisie",
     "my",
     "60"
   ],
@@ -687,12 +687,12 @@ var allCountries = [
     "223"
   ],
   [
-    "Malta",
+    "Malte",
     "mt",
     "356"
   ],
   [
-    "Marshall Islands",
+    "Îles Marshall",
     "mh",
     "692"
   ],
@@ -702,12 +702,12 @@ var allCountries = [
     "596"
   ],
   [
-    "Mauritania (‫موريتانيا‬‎)",
+    "Mauritanie",
     "mr",
     "222"
   ],
   [
-    "Mauritius (Moris)",
+    "Maurice",
     "mu",
     "230"
   ],
@@ -718,17 +718,17 @@ var allCountries = [
     1
   ],
   [
-    "Mexico (México)",
+    "Mexique",
     "mx",
     "52"
   ],
   [
-    "Micronesia",
+    "Micronésie",
     "fm",
     "691"
   ],
   [
-    "Moldova (Republica Moldova)",
+    "Moldavie",
     "md",
     "373"
   ],
@@ -738,12 +738,12 @@ var allCountries = [
     "377"
   ],
   [
-    "Mongolia (Монгол)",
+    "Mongolie",
     "mn",
     "976"
   ],
   [
-    "Montenegro (Crna Gora)",
+    "Monténégro",
     "me",
     "382"
   ],
@@ -753,23 +753,23 @@ var allCountries = [
     "1664"
   ],
   [
-    "Morocco (‫المغرب‬‎)",
+    "Maroc",
     "ma",
     "212",
     0
   ],
   [
-    "Mozambique (Moçambique)",
+    "Mozambique",
     "mz",
     "258"
   ],
   [
-    "Myanmar (Burma) (မြန်မာ)",
+    "Myanmar",
     "mm",
     "95"
   ],
   [
-    "Namibia (Namibië)",
+    "Namibie",
     "na",
     "264"
   ],
@@ -779,22 +779,22 @@ var allCountries = [
     "674"
   ],
   [
-    "Nepal (नेपाल)",
+    "Népal",
     "np",
     "977"
   ],
   [
-    "Netherlands (Nederland)",
+    "Pays-Bas",
     "nl",
     "31"
   ],
   [
-    "New Caledonia (Nouvelle-Calédonie)",
+    "Nouvelle-Calédonie",
     "nc",
     "687"
   ],
   [
-    "New Zealand",
+    "Nouvelle-Zélande",
     "nz",
     "64"
   ],
@@ -804,7 +804,7 @@ var allCountries = [
     "505"
   ],
   [
-    "Niger (Nijar)",
+    "Niger",
     "ne",
     "227"
   ],
@@ -819,53 +819,53 @@ var allCountries = [
     "683"
   ],
   [
-    "Norfolk Island",
+    "Île Norfolk",
     "nf",
     "672"
   ],
   [
-    "North Korea (조선 민주주의 인민 공화국)",
+    "Corée du Nord",
     "kp",
     "850"
   ],
   [
-    "Northern Mariana Islands",
+    "Îles Mariannes du Nord",
     "mp",
     "1670"
   ],
   [
-    "Norway (Norge)",
+    "Norvège",
     "no",
     "47",
     0
   ],
   [
-    "Oman (‫عُمان‬‎)",
+    "Oman",
     "om",
     "968"
   ],
   [
-    "Pakistan (‫پاکستان‬‎)",
+    "Pakistan",
     "pk",
     "92"
   ],
   [
-    "Palau",
+    "Palaos",
     "pw",
     "680"
   ],
   [
-    "Palestine (‫فلسطين‬‎)",
+    "Palestine",
     "ps",
     "970"
   ],
   [
-    "Panama (Panamá)",
+    "Panama",
     "pa",
     "507"
   ],
   [
-    "Papua New Guinea",
+    "Papouasie-Nouvelle-Guinée",
     "pg",
     "675"
   ],
@@ -875,7 +875,7 @@ var allCountries = [
     "595"
   ],
   [
-    "Peru (Perú)",
+    "Pérou",
     "pe",
     "51"
   ],
@@ -885,7 +885,7 @@ var allCountries = [
     "63"
   ],
   [
-    "Poland (Polska)",
+    "Pologne",
     "pl",
     "48"
   ],
@@ -895,30 +895,30 @@ var allCountries = [
     "351"
   ],
   [
-    "Puerto Rico",
+    "Porto Rico",
     "pr",
     "1",
     3,
     ["787", "939"]
   ],
   [
-    "Qatar (‫قطر‬‎)",
+    "Qatar",
     "qa",
     "974"
   ],
   [
-    "Réunion (La Réunion)",
+    "La Réunion",
     "re",
     "262",
     0
   ],
   [
-    "Romania (România)",
+    "Roumanie",
     "ro",
     "40"
   ],
   [
-    "Russia (Россия)",
+    "Russie",
     "ru",
     "7",
     0
@@ -929,39 +929,39 @@ var allCountries = [
     "250"
   ],
   [
-    "Saint Barthélemy",
+    "Saint-Barthélemy",
     "bl",
     "590",
     1
   ],
   [
-    "Saint Helena",
+    "Sainte-Hélène",
     "sh",
     "290"
   ],
   [
-    "Saint Kitts and Nevis",
+    "Saint-Kitts-et-Nevis",
     "kn",
     "1869"
   ],
   [
-    "Saint Lucia",
+    "Sainte-Lucie",
     "lc",
     "1758"
   ],
   [
-    "Saint Martin (Saint-Martin (partie française))",
+    "Saint-Martin (partie française)",
     "mf",
     "590",
     2
   ],
   [
-    "Saint Pierre and Miquelon (Saint-Pierre-et-Miquelon)",
+    "Saint-Pierre-et-Miquelon",
     "pm",
     "508"
   ],
   [
-    "Saint Vincent and the Grenadines",
+    "Saint-Vincent-et-les-Grenadines",
     "vc",
     "1784"
   ],
@@ -971,27 +971,27 @@ var allCountries = [
     "685"
   ],
   [
-    "San Marino",
+    "Saint-Marin",
     "sm",
     "378"
   ],
   [
-    "São Tomé and Príncipe (São Tomé e Príncipe)",
+    "Sao Tomé-et-Príncipe",
     "st",
     "239"
   ],
   [
-    "Saudi Arabia (‫المملكة العربية السعودية‬‎)",
+    "Arabie Saoudite",
     "sa",
     "966"
   ],
   [
-    "Senegal (Sénégal)",
+    "Sénégal",
     "sn",
     "221"
   ],
   [
-    "Serbia (Србија)",
+    "Serbie",
     "rs",
     "381"
   ],
@@ -1006,62 +1006,62 @@ var allCountries = [
     "232"
   ],
   [
-    "Singapore",
+    "Singapour",
     "sg",
     "65"
   ],
   [
-    "Sint Maarten",
+    "Saint-Martin",
     "sx",
     "1721"
   ],
   [
-    "Slovakia (Slovensko)",
+    "Slovaquie",
     "sk",
     "421"
   ],
   [
-    "Slovenia (Slovenija)",
+    "Slovénie",
     "si",
     "386"
   ],
   [
-    "Solomon Islands",
+    "Îles Salomon",
     "sb",
     "677"
   ],
   [
-    "Somalia (Soomaaliya)",
+    "Somalie",
     "so",
     "252"
   ],
   [
-    "South Africa",
+    "Afrique du Sud",
     "za",
     "27"
   ],
   [
-    "South Korea (대한민국)",
+    "Corée du Sud",
     "kr",
     "82"
   ],
   [
-    "South Sudan (‫جنوب السودان‬‎)",
+    "Soudan du Sud",
     "ss",
     "211"
   ],
   [
-    "Spain (España)",
+    "Espagne",
     "es",
     "34"
   ],
   [
-    "Sri Lanka (ශ්‍රී ලංකාව)",
+    "Sri Lanka",
     "lk",
     "94"
   ],
   [
-    "Sudan (‫السودان‬‎)",
+    "Soudan",
     "sd",
     "249"
   ],
@@ -1071,7 +1071,7 @@ var allCountries = [
     "597"
   ],
   [
-    "Svalbard and Jan Mayen",
+    "Svalbard et Jan Mayen",
     "sj",
     "47",
     1
@@ -1082,42 +1082,42 @@ var allCountries = [
     "268"
   ],
   [
-    "Sweden (Sverige)",
+    "Suède",
     "se",
     "46"
   ],
   [
-    "Switzerland (Schweiz)",
+    "Suisse",
     "ch",
     "41"
   ],
   [
-    "Syria (‫سوريا‬‎)",
+    "Syrie",
     "sy",
     "963"
   ],
   [
-    "Taiwan (台灣)",
+    "Taïwan",
     "tw",
     "886"
   ],
   [
-    "Tajikistan",
+    "Tadjikistan",
     "tj",
     "992"
   ],
   [
-    "Tanzania",
+    "Tanzanie",
     "tz",
     "255"
   ],
   [
-    "Thailand (ไทย)",
+    "Thaïlande",
     "th",
     "66"
   ],
   [
-    "Timor-Leste",
+    "Timor oriental",
     "tl",
     "670"
   ],
@@ -1137,17 +1137,17 @@ var allCountries = [
     "676"
   ],
   [
-    "Trinidad and Tobago",
+    "Trinité-et-Tobago",
     "tt",
     "1868"
   ],
   [
-    "Tunisia (‫تونس‬‎)",
+    "Tunisie",
     "tn",
     "216"
   ],
   [
-    "Turkey (Türkiye)",
+    "Turquie",
     "tr",
     "90"
   ],
@@ -1157,7 +1157,7 @@ var allCountries = [
     "993"
   ],
   [
-    "Turks and Caicos Islands",
+    "Îles Turques-et-Caïques",
     "tc",
     "1649"
   ],
@@ -1167,33 +1167,33 @@ var allCountries = [
     "688"
   ],
   [
-    "U.S. Virgin Islands",
+    "Îles Vierges des États-Unis",
     "vi",
     "1340"
   ],
   [
-    "Uganda",
+    "Ouganda",
     "ug",
     "256"
   ],
   [
-    "Ukraine (Україна)",
+    "Ukraine",
     "ua",
     "380"
   ],
   [
-    "United Arab Emirates (‫الإمارات العربية المتحدة‬‎)",
+    "Emirats arabes unis",
     "ae",
     "971"
   ],
   [
-    "United Kingdom",
+    "Royaume-Uni",
     "gb",
     "44",
     0
   ],
   [
-    "United States",
+    "Etats-Unis",
     "us",
     "1",
     0
@@ -1204,7 +1204,7 @@ var allCountries = [
     "598"
   ],
   [
-    "Uzbekistan (Oʻzbekiston)",
+    "Ouzbékistan",
     "uz",
     "998"
   ],
@@ -1214,7 +1214,7 @@ var allCountries = [
     "678"
   ],
   [
-    "Vatican City (Città del Vaticano)",
+    "Cité du Vatican",
     "va",
     "39",
     1
@@ -1225,28 +1225,28 @@ var allCountries = [
     "58"
   ],
   [
-    "Vietnam (Việt Nam)",
+    "Vietnam",
     "vn",
     "84"
   ],
   [
-    "Wallis and Futuna (Wallis-et-Futuna)",
+    "Wallis-et-Futuna",
     "wf",
     "681"
   ],
   [
-    "Western Sahara (‫الصحراء الغربية‬‎)",
+    "Sahara Occidental",
     "eh",
     "212",
     1
   ],
   [
-    "Yemen (‫اليمن‬‎)",
+    "Yémen",
     "ye",
     "967"
   ],
   [
-    "Zambia",
+    "Zambie",
     "zm",
     "260"
   ],
@@ -1256,7 +1256,7 @@ var allCountries = [
     "263"
   ],
   [
-    "Åland Islands",
+    "Åland",
     "ax",
     "358",
     1
